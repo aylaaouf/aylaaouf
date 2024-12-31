@@ -10,7 +10,7 @@ I'm Aylaaouf, a passionate coder from Morocco, currently sharpening my skills at
 [![aylaaouf's 42 stats](https://badge.mediaplus.ma/darkblue/aylaaouf)](https://profile.intra.42.fr/users/aylaaouf)  
 
 ### 🛠️ Technologies & Tools  
-- Programming Languages: C, Python, JavaScript  
+- Programming Languages: C, Go, Python, JavaScript  
 - Tools: Git, Linux 
 
 ### 🌐 Connect With Me  
