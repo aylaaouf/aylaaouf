@@ -7,7 +7,7 @@ I'm Aylaaouf, a passionate coder from Morocco, currently sharpening my skills at
 - 🔭 Currently focused on mastering system programming, algorithms, and problem-solving.
 
 ### 📊 My 1337 Stats  
-[![aylaaouf's 42 stats](https://badge.mediaplus.ma/darkblue/aylaaouf)](https://profile.intra.42.fr/users/aylaaouf)  
+[![aylaaouf's 42 stats](https://badge.mediaplus.ma/colorfulwaves/aylaaouf)](https://profile.intra.42.fr/users/aylaaouf)  
 
 ### 🛠️ Technologies & Tools  
 - Programming Languages: C, Go, Python, JavaScript  
