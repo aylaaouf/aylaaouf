@@ -1,4 +1,10 @@
-# ayoub@1337:~$ whoami
+# Ayoub Laaoufi
+
+### Backend & DevOps Engineer
+
+Software Engineering student at 1337 Coding School (42 Network | UM6P), Morocco
+
+I build backend systems and the infrastructure they run on: APIs, databases, containers, and pipelines. I'd rather know *why* something works than just that it does.
 
 ```c
 #include <stdio.h>
@@ -28,8 +34,6 @@ int main(void)
     return (0);
 }
 ```
-
-I build backend systems and the infrastructure they run on: APIs, databases, containers, and pipelines. I'd rather know *why* something works than just that it does.
 
 ---
 
